@@ -23,34 +23,47 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- iteam 1- First you need to go to azure and set up a resource group 
+- iteam 2- Once the resource group is made then you can make the virtual machine 
+- iteam 3- After your vertual machine is made take the IP address and open up remote desktop connection 
+- iteam 4- From the remote desktop connection you will downloud osticket onto your VM and use as needed
+- iteam 5- Osticket interface 
 
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vKtD7bw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Make sure your resource group and virtual machine have similar names so you dont confuse what resource group to assign it to.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/rTrCwLA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+While making the virtual machine in the subscription area select the resouce group you made with a similer name as your resurce group to asign it.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/BhtB0Jl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After making your virtual machine take the IP address by opening the virtual machine menu and copying it, go to search bare for windown and type (remote desktop connection), past the IP address and enter the login and password you made for the virtual machine.
 </p>
 <br />
+<p>
+<img src="https://i.imgur.com/GQzBWk6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Once you enter you login for the virtual machine and get on I linked a video about how to install and set up Osticket (https://www.youtube.com/watch?v=dEvGaxOgqf0) 
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/792pYzq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Now you can deal with tickets and set priorities to tickets and give admine abilities to your help desk members.
+
